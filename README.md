@@ -17,6 +17,6 @@ I’m a Full Stack Developer who loves building things — not just for the sake
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Karungg"><img src="https://github-readme-stats.vercel.app/api?username=Karungg&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Karungg's GitHub stats" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karungg&bg_color=1C1917&title_color=EF6F16&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karungg&layout=compact&bg_color=1C1917&title_color=EF6F16&text_color=ffffff&hide_border=true)
