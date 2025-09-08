@@ -1,11 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miftah Fadilah
-======================================================================================================================================
-
-I’m a Full Stack Developer who loves building things — not just for the sake of coding, but to make a meaningful impact on others.
-
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [miftah-portfolio](http://miftah-fadilah-portfolio.vercel.app/)
-* ✉️  You can contact me at [miftahfadilah71@gmail.com](mailto:miftahfadilah71@gmail.com)
+Hi, I'm Miftah Fadilah, I'm a Fullstack Developer
 
 ### Skills
 
